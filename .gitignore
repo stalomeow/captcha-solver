@@ -1,6 +1,8 @@
 __pycache__/**
 env/**
 data/**
+!data/payment/
 !data/payment/.gitkeep
+!data/zfw/
 !data/zfw/.gitkeep
 !data/data.zip
